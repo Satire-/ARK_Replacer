@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=x\ark\addons\ark_replacer_tka
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: 'ACACC8F999C03A71435A6FCF71462B05AA451417'
+//////</HEADER>//////

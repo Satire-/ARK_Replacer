@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=x\ark\addons\ark_replacer_napa
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: '63ED152C9179C05C6CB460EA863A4DAD3D7885FD'
+//////</HEADER>//////
