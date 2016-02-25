@@ -299,7 +299,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_Carrier_Belt.p3d";
-			containerClass = "Supply80";
+			containerClass = "Supply140";
             class HitpointsProtectionInfo
             {
                 class Chest
@@ -343,7 +343,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_Carrier_Belt02.p3d";
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			class HitpointsProtectionInfo
             {
                 class Chest
@@ -387,7 +387,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_Carrier_Belt03.p3d";
-			containerClass = "Supply120";
+			containerClass = "Supply140";
 			class HitpointsProtectionInfo
             {
                 class Chest
@@ -430,7 +430,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_flak.p3d";
-			containerClass = "Supply90";
+			containerClass = "Supply140";
 			class HitpointsProtectionInfo
             {
                 class Chest
@@ -473,7 +473,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_flak_nco.p3d";
-			containerClass = "Supply90";
+			containerClass = "Supply140";
 			class HitpointsProtectionInfo
             {
                 class Chest
@@ -516,7 +516,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_sla\CUP_sla_flak02.p3d";
-			containerClass = "Supply90";
+			containerClass = "Supply140";
 			class HitpointsProtectionInfo
             {
                 class Chest

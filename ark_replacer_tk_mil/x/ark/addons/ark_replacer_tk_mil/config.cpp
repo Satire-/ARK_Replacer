@@ -504,7 +504,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor01_1_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
             mass = 80;
 			class HitpointsProtectionInfo
@@ -552,7 +552,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor01_2_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -600,7 +600,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor01_3_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -648,7 +648,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind01_1_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -696,7 +696,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind01_2_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -744,7 +744,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind01_3_co.paa"};
-			containerClass = "Supply40";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -792,7 +792,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor05_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -840,7 +840,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor05_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -888,7 +888,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor05_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -936,7 +936,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind05_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -984,7 +984,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind05_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1032,7 +1032,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind05_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket2.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1080,7 +1080,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor02_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1128,7 +1128,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor02_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1176,7 +1176,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor02_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1224,7 +1224,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind02_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1272,7 +1272,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind02_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1320,7 +1320,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind02_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket3.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1368,7 +1368,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor03_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1416,7 +1416,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor03_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1464,7 +1464,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_opfor03_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1512,7 +1512,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind03_1_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1560,7 +1560,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind03_2_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -1608,7 +1608,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\data\loc_ind03_3_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_TakiInsurgents\CUP_Taki_Jacket4.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo

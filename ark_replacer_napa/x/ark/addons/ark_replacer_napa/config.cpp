@@ -315,7 +315,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_Napa_Carrier_Belt.p3d";
-			containerClass = "Supply110";
+			containerClass = "Supply140";
 			mass = 80;
 			class HitpointsProtectionInfo
             {
@@ -363,7 +363,7 @@ class cfgWeapons
 		{
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\CUP_prizrak_jacket.p3d";
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_NAPA\data\prizrak_co.paa"};
-			containerClass = "Supply110";
+			containerClass = "Supply140";
 			mass = 80;
 			class HitpointsProtectionInfo
             {

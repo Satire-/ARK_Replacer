@@ -388,7 +388,7 @@ class cfgWeapons
 		class ItemInfo: ItemInfo
 		{
 			hiddenSelectionsTextures[] = {"\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\data\tak_soldier_co.paa","\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\data\tak_soldier_equip_co.paa"};
-			containerClass = "Supply80";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\CUP_TK_CrewmanBelt.p3d";
 			mass = 80;
 			class HitpointsProtectionInfo
@@ -434,7 +434,7 @@ class cfgWeapons
 		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\data\ui\icon_v_officer_belt_ca.paa";
 		class ItemInfo: ItemInfo
 		{
-			containerClass = "Supply60";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\CUP_TK_OfficerBelt.p3d";
 			class HitpointsProtectionInfo
             {
@@ -479,7 +479,7 @@ class cfgWeapons
 		picture = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\data\ui\icon_v_tk_binoc_belt_ca.paa";
 		class ItemInfo: ItemInfo
 		{
-			containerClass = "Supply60";
+			containerClass = "Supply140";
 			uniformModel = "\CUP\Creatures\People\Military\CUP_Creatures_People_Military_Taki\CUP_TK_BinocsBelt.p3d";
 			class HitpointsProtectionInfo
             {
