@@ -82,7 +82,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Bandit_1_F";
             uniformModel = "-";
             mass = 20;
@@ -93,7 +93,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Bandit_2_F";
             uniformModel = "-";
             mass = 20;
@@ -104,7 +104,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Bandit_3_F";
             uniformModel = "-";
             mass = 20;
@@ -115,7 +115,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Bandit_4_F";
             uniformModel = "-";
             mass = 20;
@@ -126,7 +126,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Bandit_5_F";
             uniformModel = "-";
             mass = 20;
@@ -137,7 +137,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Camo_F";
             uniformModel = "-";
             mass = 20;
@@ -148,7 +148,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Para_1_F";
             uniformModel = "-";
             mass = 20;
@@ -159,7 +159,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Para_2_F";
             uniformModel = "-";
             mass = 20;
@@ -170,7 +170,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Para_3_F";
             uniformModel = "-";
             mass = 20;
@@ -181,7 +181,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Para_4_F";
             uniformModel = "-";
             mass = 20;
@@ -192,7 +192,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "I_C_Soldier_Para_5_F";
             uniformModel = "-";
             mass = 20;
@@ -203,7 +203,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_F";
             uniformModel = "-";
             mass = 20;
@@ -214,7 +214,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_AR_F";
             uniformModel = "-";
             mass = 20;
@@ -225,7 +225,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_engineer_F";
             uniformModel = "-";
             mass = 20;
@@ -236,7 +236,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_medic_F";
             uniformModel = "-";
             mass = 20;
@@ -247,7 +247,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_M_F";
             uniformModel = "-";
             mass = 20;
@@ -258,7 +258,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_LAT_F";
             uniformModel = "-";
             mass = 20;
@@ -269,7 +269,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_LAT_F";
             uniformModel = "-";
             mass = 20;
@@ -280,7 +280,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_G_Soldier_TL_F";
             uniformModel = "-";
             mass = 20;
@@ -291,7 +291,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_GEN_Commander_F";
             uniformModel = "-";
             mass = 20;
@@ -302,7 +302,7 @@ class CfgWeapons
 	{
         class ItemInfo: UniformItem
 		{
-			containerClass = "Supply80";
+			containerClass = "Supply120";
             uniformClass = "B_GEN_Soldier_F";
             uniformModel = "-";
             mass = 20;
