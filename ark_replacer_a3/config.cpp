@@ -75,7 +75,6 @@ class CfgWeapons
 {
 	class CUP_launch_M136;
     class CUP_launch_RPG18;
-    class ItemInfo;
     class UniformItem;
     class U_I_C_Soldier_Bandit_1_F;
     class U_I_C_Soldier_Bandit_1_F_ARK: U_I_C_Soldier_Bandit_1_F
