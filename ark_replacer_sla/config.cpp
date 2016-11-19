@@ -204,14 +204,14 @@ class CfgVehicles
 		magazines[] = {"hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"};
 		respawnMagazines[] = {"hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"};
 	};
-	class CUP_O_sla_soldier_urban: CUP_O_sla_Soldier_04
+	class CUP_O_sla_soldier_urban: CUP_O_sla_Soldier
 	{
 		weapons[] = {"hlc_rifle_ak74_dirty2","Throw","Put"};
 		respawnWeapons[] = {"hlc_rifle_ak74_dirty2","Throw","Put"};
 		magazines[] = {"hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"};
 		respawnMagazines[] = {"hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","hlc_30Rnd_545x39_B_AK","CUP_HandGrenade_RGD5","CUP_HandGrenade_RGD5"};
 	};
-	class CUP_O_sla_soldier_desert: CUP_O_sla_Soldier_05
+	class CUP_O_sla_soldier_desert: CUP_O_sla_Soldier
 	{
 		weapons[] = {"hlc_rifle_ak74_dirty2","Throw","Put"};
 		respawnWeapons[] = {"hlc_rifle_ak74_dirty2","Throw","Put"};
